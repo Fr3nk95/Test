@@ -1,0 +1,8 @@
+setuptools
+wheel
+fastapi
+uvicorn[standard]
+numpy
+dimod
+pydantic
+python-multipart
